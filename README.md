@@ -2,7 +2,7 @@
 
 ScamSim es un proyecto académico de HCI for UX Design para practicar cómo responder ante un posible fraude digital. Cada práctica presenta un mensaje ficticio, tres posibles decisiones y una explicación que relaciona la respuesta con las señales del caso.
 
-**[Abrir ScamSim en GitHub Pages]([https://gd123f.github.io/scamsim/](https://gd123f.github.io/scamsim/?utm_source=chatgpt.com))**
+**[Abrir ScamSim en GitHub Pages]([https://gd123f.github.io/scamsim/](https://gd123f.github.io/scamsim/?utm_source=chatgpt.com)**
 
 ## Probar una simulación
 
